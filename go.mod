@@ -1,4 +1,4 @@
-module github.com/yarpc/yab
+module github.com/crazyboycjr/yab
 
 go 1.18
 
